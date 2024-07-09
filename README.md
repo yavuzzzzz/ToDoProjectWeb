@@ -15,5 +15,4 @@ Bu proje, basit bir Todo (Yapılacaklar) listesi uygulamasını içermektedir. K
 - Bootstrap
 - TypeScript
 
-  <img src="C:\Users\yvzyl\OneDrive\Masaüstü\Projeler" alt="ToDoApp API" width="320" height="180">
 
